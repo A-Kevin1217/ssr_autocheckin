@@ -1,11 +1,11 @@
 import requests
 requests.packages.urllib3.disable_warnings()
-base_url = 'http://www.****.top'
+base_url = 'https://fnff.one'
 
 
 def checkin():
-    email = input('email: ')
-    password = input('password: ')
+    email = input('email: https://fnff.one')
+    password = input('password: 20011217Jyc..')
 
     email = email.split('@')
     email = email[0] + '%40' + email[1]
