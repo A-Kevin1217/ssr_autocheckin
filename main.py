@@ -4,7 +4,7 @@ base_url = 'https://fnff.one'
 
 
 def checkin():
-    email = input('email: https://fnff.one')
+    email = input('email: 1354903463@qq.com')
     password = input('password: 20011217Jyc..')
 
     email = email.split('@')
